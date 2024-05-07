@@ -5,8 +5,8 @@ N-lite is a versatile IP scanner tool designed for network administrators and se
 ## IP Range Scan Menu
 When scanning IP ranges, N-lite offers the following menu:
 
-Enter the starting IP address: [User Input]
-Enter the ending IP address: [User Input]
+- Enter the starting IP address: [User Input]
+- Enter the ending IP address: [User Input]
 
 ### Scan Options:
 + [1] Fast Scan (ports 1 to 1024)
