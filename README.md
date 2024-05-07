@@ -1,3 +1,5 @@
+![alt logo](https://i.ibb.co/4W3SmhY/image-2024-05-07-191410351.png)
+
 # N-lite IP Scanner Tool
 ## Overview
 N-lite is a versatile IP scanner tool designed for network administrators and security professionals. It provides comprehensive scanning capabilities for both single IP addresses and IP ranges. With N-lite, users can scan for open ports, retrieve protocol information from banners, and gather detailed server information. The tool offers a user-friendly interface and supports customizable scan options to suit different scanning needs.
@@ -23,7 +25,9 @@ For scanning single IP addresses, N-lite provides the following menu:
 + [2] Intensive Scan (scan all possible ports)
 + [3] Custom Port Scan (input specific ports separated by commas)
 + [4] Most Common Ports Scan
+  
 ![alt logo](https://i.ibb.co/9gpNRpH/Capture-d-cran-2024-05-07-045704.png)
+
 ## Features
 * Port Scanning: Scan for open ports on single IP addresses or IP ranges.
 * Banner Grabbing: Retrieve protocol information from banners of open ports.
