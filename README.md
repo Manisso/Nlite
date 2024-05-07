@@ -31,7 +31,7 @@ For scanning single IP addresses, N-lite provides the following menu:
 ## Features
 * Port Scanning: Scan for open ports on single IP addresses or IP ranges.
 * Banner Grabbing: Retrieve protocol information from banners of open ports.
-* Server Information: Gather detailed server information, including server type, OS, and application versions.
+* Server Information: Gather detailed server information, including server type, and application versions.
 * Cross-Platform Support: Compatible with Windows, macOS, and Linux.
 
 ## How to Install
