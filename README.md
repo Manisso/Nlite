@@ -23,7 +23,7 @@ For scanning single IP addresses, N-lite provides the following menu:
 + [2] Intensive Scan (scan all possible ports)
 + [3] Custom Port Scan (input specific ports separated by commas)
 + [4] Most Common Ports Scan
-
+![alt logo](https://i.ibb.co/9gpNRpH/Capture-d-cran-2024-05-07-045704.png)
 ## Features
 * Port Scanning: Scan for open ports on single IP addresses or IP ranges.
 * Banner Grabbing: Retrieve protocol information from banners of open ports.
