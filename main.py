@@ -27,7 +27,7 @@ def main():
         content = "127.0.0.1     "
 
   try:
-        push = requests.get("https://raw.githubusercontent.com/Manisso/Nlite/main/push/v0.2.txt")
+        push = requests.get("https://raw.githubusercontent.com/Manisso/Nlite/main/push/v0.1.txt")
         ntf = push.content.decode("utf-8")
   except ConnectionError:
         ntf = "v 0.1 - No Internet"
