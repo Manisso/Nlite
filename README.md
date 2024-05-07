@@ -38,3 +38,10 @@ For scanning single IP addresses, N-lite provides the following menu:
 ```bash
 bash <(wget -qO- https://t.ly/NgFUV)
 ```
+To create a symbolic link named python that points to python3 in the /usr/bin directory, you can use the following command:
+
+```bash
+sudo ln -s /usr/bin/python3 /usr/bin/python
+```
+
+This command creates a symbolic link called python in /usr/bin that points to the python3 executable. This way, when you use the python command, it will effectively run Python 3.
