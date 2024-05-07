@@ -13,6 +13,8 @@ When scanning IP ranges, N-lite offers the following menu:
 + [2] Common Port Scan
 + [3] Custom Port Scan (input specific ports separated by commas)
 
+![alt logo](https://i.ibb.co/gS5T8SM/Capture-d-cran-2024-05-07-050014.png)
+
 ## IP Port Scan Menu
 For scanning single IP addresses, N-lite provides the following menu:
 
