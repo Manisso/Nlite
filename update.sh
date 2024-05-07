@@ -24,10 +24,7 @@ then
 echo "";
 echo "[✔]Tool Updated with success![✔]";
 echo "";
-  echo "[✔]====================================================================[✔]";
-  echo "[✔] ✔✔✔  All is done!! You can execute tool by typing nlite  !  ✔✔✔ [✔]"; 
-  echo "[✔]====================================================================[✔]";
-  echo "";
+nlite
 else
   echo "[✘] Update Failed ! ![✘] ";
   exit
