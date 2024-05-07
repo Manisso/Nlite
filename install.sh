@@ -35,6 +35,7 @@ fi
  chmod +x nlite;
  sudo cp nlite /usr/bin/;
  rm nlite;
+ sudo pip3 install -r requirements.txt
 
 
 if [ -d "/usr/share/doc/nlite" ] ;
